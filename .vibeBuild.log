@@ -1,0 +1,126 @@
+
+========== Build Started ==========
+Date: Sun May 25 06:22:04 PM -03 2025
+User: renato
+System: Linux arch 6.14.6-arch1-1 #1 SMP PREEMPT_DYNAMIC Fri, 09 May 2025 17:36:18 +0000 x86_64 GNU/Linux
+Directory: /home/renato/Projects/Problems/OBI
+Output Directory: bin
+
+========== Build Started ==========
+Date: Sun May 25 06:22:15 PM -03 2025
+User: renato
+System: Linux arch 6.14.6-arch1-1 #1 SMP PREEMPT_DYNAMIC Fri, 09 May 2025 17:36:18 +0000 x86_64 GNU/Linux
+Directory: /home/renato/Projects/Problems/OBI
+Output Directory: bin
+[OK] bin/acelerador_de_particulas
+[OK] bin/aplicativo_de_calorias
+[OK] bin/baralho
+[NOT FOUND] File not found: bin
+[OK] bin/blefe_timelimit
+[OK] bin/cacadores_de_mitos
+[OK] bin/catador
+[OK] bin/chuva
+[WARN] bin/cifra_da_ngolonia
+[OK] bin/cometa
+[OK] bin/computador
+[OK] bin/conversa_nao_tao_secreta
+
+========== Build Started ==========
+Date: Sun May 25 06:22:36 PM -03 2025
+User: renato
+System: Linux arch 6.14.6-arch1-1 #1 SMP PREEMPT_DYNAMIC Fri, 09 May 2025 17:36:18 +0000 x86_64 GNU/Linux
+Directory: /home/renato/Projects/Problems/OBI
+Output Directory: bin
+[OK] bin/acelerador_de_particulas
+[OK] bin/aplicativo_de_calorias
+[OK] bin/baralho
+[NOT FOUND] File not found: bin
+[OK] bin/blefe_timelimit
+[OK] bin/cacadores_de_mitos
+[OK] bin/catador
+[OK] bin/chuva
+[WARN] bin/cifra_da_ngolonia
+[OK] bin/cometa
+[OK] bin/computador
+[OK] bin/conversa_nao_tao_secreta
+[OK] bin/direcao
+[OK] bin/elevador
+[OK] bin/falha_de_seguranca
+[OK] bin/fechaduras
+[OK] bin/fotografia
+[FAIL] napolitano_nt.cpp
+[OK] bin/ogro
+[OK] bin/quase_primo
+[SKIP] Unsupported: README.md
+[OK] bin/soma_das_casas
+[OK] bin/tempo_de_resposta
+[OK] bin/torneio_de_tenis
+[OK] bin/triângulo
+[OK] bin/xadrez
+[OK] bin/xadrez_melhorado
+[OK] bin/zero_para_cancelar
+========== Build Finished ==========
+
+========== Build Started ==========
+Date: Sun May 25 06:24:39 PM -03 2025
+User: renato
+System: Linux arch 6.14.6-arch1-1 #1 SMP PREEMPT_DYNAMIC Fri, 09 May 2025 17:36:18 +0000 x86_64 GNU/Linux
+Directory: /home/renato/Projects/Problems/OBI
+Output Directory: bin
+[OK] bin/acelerador_de_particulas
+[SKIP] Unsupported: a.out
+[OK] bin/aplicativo_de_calorias
+[OK] bin/baralho
+[NOT FOUND] File not found: bin
+[OK] bin/blefe_timelimit
+[OK] bin/cacadores_de_mitos
+[OK] bin/catador
+
+========== Build Started ==========
+Date: Sun May 25 06:24:57 PM -03 2025
+User: renato
+System: Linux arch 6.14.6-arch1-1 #1 SMP PREEMPT_DYNAMIC Fri, 09 May 2025 17:36:18 +0000 x86_64 GNU/Linux
+Directory: /home/renato/Projects/Problems/OBI
+Output Directory: bin
+
+========== Build Started ==========
+Date: Sun May 25 06:25:00 PM -03 2025
+User: renato
+System: Linux arch 6.14.6-arch1-1 #1 SMP PREEMPT_DYNAMIC Fri, 09 May 2025 17:36:18 +0000 x86_64 GNU/Linux
+Directory: /home/renato/Projects/Problems/OBI
+Output Directory: bin
+
+========== Build Started ==========
+Date: Sun May 25 06:25:06 PM -03 2025
+User: renato
+System: Linux arch 6.14.6-arch1-1 #1 SMP PREEMPT_DYNAMIC Fri, 09 May 2025 17:36:18 +0000 x86_64 GNU/Linux
+Directory: /home/renato/Projects/Problems/OBI
+Output Directory: bin
+[OK] bin/acelerador_de_particulas
+[OK] bin/aplicativo_de_calorias
+[OK] bin/baralho
+[OK] bin/blefe_timelimit
+[OK] bin/cacadores_de_mitos
+[OK] bin/catador
+[OK] bin/chuva
+[OK] bin/cifra_da_ngolonia
+[OK] bin/cometa
+[OK] bin/computador
+[OK] bin/conversa_nao_tao_secreta
+[OK] bin/direcao
+[OK] bin/elevador
+[OK] bin/falha_de_seguranca
+[OK] bin/fechaduras
+[OK] bin/fotografia
+[FAIL] napolitano_nt.cpp
+[OK] bin/ogro
+[OK] bin/quase_primo
+[SKIP] Unsupported: README.md
+[OK] bin/soma_das_casas
+[OK] bin/tempo_de_resposta
+[OK] bin/torneio_de_tenis
+[OK] bin/triângulo
+[OK] bin/xadrez
+[OK] bin/xadrez_melhorado
+[OK] bin/zero_para_cancelar
+========== Build Finished ==========

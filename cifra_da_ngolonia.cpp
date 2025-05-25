@@ -1,6 +1,5 @@
 #include <iostream>
 #include <cstring>
-#include <cstdbool>
 #include <cstdlib>
 
 using namespace std;
