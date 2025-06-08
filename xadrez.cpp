@@ -27,6 +27,6 @@ int main()
 		value += somat1(N - i - 1);
 	}
 	value++;
-	cout << value;
+	cout << value << endl;
 	return 0;
 }
